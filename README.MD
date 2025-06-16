@@ -29,8 +29,6 @@ Before you begin, ensure you have the following:
 - **Security Best Practices:** Always follow security best practices, such as restricting SSH access to trusted IP addresses and regularly updating your instance.
 - **Resource Management:** Monitor your instance's performance and resource usage to ensure optimal operation.
 
-Absolutely! Below is the translated and enhanced section for your README that outlines the project's directory structure. This section includes a visual tree diagram and detailed descriptions of each file and directory to help users understand the project's organization and components.
-
 ---
 
 ## Project Directory Structure
